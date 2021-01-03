@@ -7,9 +7,6 @@ body, html{
     line-height:1.8em;
     color:#666;
   }
-  @media all and (max-width: 500px) {
-    
-  }
   
   .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6{
     position:relative;
@@ -104,4 +101,9 @@ body, html{
     padding:20px;
     width: 10px;
     border
+  }
+  @media(max-width: 568px){
+    .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6 {
+      background-attachment: scroll;
+    }
   }
