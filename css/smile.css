@@ -116,7 +116,8 @@ iframe {
   text-transform:uppercase;
   } 
   .fab {
-  color:skyblue;
+  color:gray;
+  background:black;
   font-size: 34px;
   padding:20px;
   width: 10px;}
