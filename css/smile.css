@@ -115,8 +115,11 @@ iframe {
   letter-spacing:4px;
   text-transform:uppercase;
   } 
-  .fab {font-size: 3em;
-  color:whitesmoke;}
+  .fab {
+  color:gray;
+  font-size: 34px;
+  padding:20px;
+  width: 10px;}
 
   body, html{
     height:100%;
