@@ -115,7 +115,7 @@ iframe {
   letter-spacing:4px;
   text-transform:uppercase;
   } .fab {font-size: 3em;
-  background-color: white;}
+  color: white;}
   body, html{
     height:100%;
     margin:0;
